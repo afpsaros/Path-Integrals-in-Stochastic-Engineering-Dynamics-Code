@@ -1,2 +1,3 @@
-Excitation: Non-white
+Excitation: Non-white, non-Gaussian noise
+
 Method: Euler-Lagrange Equations
