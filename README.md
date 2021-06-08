@@ -1,6 +1,7 @@
 # Path Integrals in Stochastic Engineering Dynamics Code
 
 Indicative Matlab implementations of various examples presented in the book (in preparation) *"Path Integrals in Stochastic Engineering Dynamics"* by Kougioumtzoglou, Psaros, and Spanos.
+
 See also video recording of lecture on path integral numerical implementation (part of Columbia University course *"ENME E6220 - Random Processes in Mechanics"*): https://bit.ly/3zalpMF
 
 
