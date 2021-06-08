@@ -1,7 +1,7 @@
 # Path Integrals in Stochastic Engineering Dynamics Code
 
 Indicative Matlab implementations of various examples presented in the book (in preparation) *"Path Integrals in Stochastic Engineering Dynamics"* by Kougioumtzoglou, Psaros, and Spanos.
-See also video recording of lecture on path integral numerical implementation (part of Columbia University course *"ENME E6220 - Random Processes in Mechanics"*): https://drive.google.com/file/d/1X9driEaqcgaKi6ip9vDUmwLyeMnQtN-2/view?usp=sharing
+See also video recording of lecture on path integral numerical implementation (part of Columbia University course *"ENME E6220 - Random Processes in Mechanics"*): https://bit.ly/3zalpMF
 
 
 ## 1) Single-degree-of-freedom nonlinear oscillator subject to white Gaussian noise
