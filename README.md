@@ -2,8 +2,6 @@
 
 Indicative Matlab implementations of various examples presented in the book [*Path Integrals in Stochastic Engineering Dynamics*](https://link.springer.com/book/10.1007/978-3-031-57863-2) by Kougioumtzoglou, Psaros, and Spanos (Springer, 2024).
 
-See also the video recording of a lecture on path integral numerical implementation (part of the Columbia University course *ENME E6220: Random Processes in Mechanics*): [https://bit.ly/3zalpMF](https://bit.ly/3zalpMF)
-
 ## 1) Single-degree-of-freedom nonlinear oscillator subject to white Gaussian noise
 
 **Solved via Euler-Lagrange equations**
